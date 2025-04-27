@@ -1,5 +1,13 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: rgb(240, 214, 180)
+}
+
+#Comienzo{
+    color: rgb(136, 106, 25);
+}
+
+#Excusa{
+    color: rgb(156, 94, 0);
 }
